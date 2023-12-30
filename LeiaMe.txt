@@ -1,0 +1,1 @@
+Execulte o alcarro, antes de usar os htmls/php
